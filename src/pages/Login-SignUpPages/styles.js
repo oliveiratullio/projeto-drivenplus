@@ -16,6 +16,7 @@ export const Logo = styled.div`
     font-size: 50px;
     justify-content: center;
     display: flex;
+    color: #FFFFFF;
 `
 export const UserDataForm = styled.form`
     width: 299px;
