@@ -22,6 +22,7 @@ export const PlanLogo = styled.div`
     justify-content: center;
     align-items: center;
     margin-top: 87px;
+    color: #FFFFFF;
     img{
         margin-bottom: 12px;
     }
@@ -45,6 +46,7 @@ export const DataLine1 = styled.div`
     line-height: 19px;
     letter-spacing: 0em;
     text-align: left;
+    color: #FFFFFF;
 `
 export const DataLine2 = styled.div`
     width: 299px;
@@ -59,6 +61,7 @@ export const DataLine2 = styled.div`
     line-height: 19px;
     letter-spacing: 0em;
     text-align: left;
+    color: #FFFFFF;
 `
 export const CreditCardForm = styled.form`
     width: 300px;

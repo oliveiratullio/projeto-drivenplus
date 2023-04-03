@@ -7,6 +7,7 @@ export const Container = styled.div `
     flex-direction: column;
     align-items: center;
     background-color: #0e0e13;
+    color
     
 `
 export const Logo = styled.div`
@@ -15,6 +16,7 @@ export const Logo = styled.div`
     position: absolute;
     left: 38px;
     top: 32px;
+    color: #FFFFFF;
     img{
         width: 50px;
         height: 75px;
@@ -45,6 +47,7 @@ export const WelcomeMassage = styled.div`
         line-height: 28px;
         letter-spacing: 0em;
         text-align: left;
+        color: #FFFFFF;
     }
 
 `

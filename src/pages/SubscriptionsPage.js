@@ -55,6 +55,7 @@ const Header = styled.div`
   line-height: 38px;
   letter-spacing: 0em;
   text-align: left;
+  color: #FFFFFF;
 
 `
 const Plan = styled.div`
